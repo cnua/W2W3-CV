@@ -1,2 +1,2 @@
 # W2W3-CV
-one hour CV project
+ambitious one hour CV project
